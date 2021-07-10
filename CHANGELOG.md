@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.4
+
+- Fixed dependencies listed in package.json. See
+  https://github.com/j0lv3r4/mdx-prism/issues/8
+
 ## 0.3.1+fork.0.1.0
 
 - Fork from @mapbox/rehype-prism
